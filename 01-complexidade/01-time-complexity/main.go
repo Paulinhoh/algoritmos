@@ -1,9 +1,8 @@
 /*
 O que é "Time complexity":
+	De forma simples, é a forma de ter uma noção de quanto tempo o seu algoritmo levaria para terminar a execução.
 
-De forma simples, é a forma de ter uma noção de quanto tempo o seu algoritmo levaria para terminar a execução.
-
-O imput recebido nos ajuda a ter uma ideia de como nosso algoritmo vai performar (exemlo: se for um numero maior, tende a demorar mais).
+	O imput recebido nos ajuda a ter uma ideia de como nosso algoritmo vai performar (exemlo: se for um numero maior, tende a demorar mais).
 */
 
 package main
